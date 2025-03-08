@@ -1,0 +1,1 @@
+.row{display:flex;flex-direction:row}.cell{border:1px solid black;width:2em;height:2em}.cell_empty{background-color:gray}.cell_white{background-color:#fff}.cell_black{background-color:#000}.cell_error{background-color:red}
